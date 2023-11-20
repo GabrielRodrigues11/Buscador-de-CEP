@@ -9,6 +9,7 @@
 - `Biblioteca Gson`
 - `InteliJ IDEA`
 - `Paradigma de orientação a objeto`
+- `API ViaCEP`
 
 # 🛠️ Abrir e rodar o projeto
 
